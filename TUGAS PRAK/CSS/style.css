@@ -1,0 +1,54 @@
+
+/* BODY */
+body {
+    background-color: #fff8f3;
+}
+
+/* NAVBAR */
+.navbar-brand {
+    color: #704631;
+}
+
+/* HERO */
+.hero-section {
+    background-color: #f3dfd0;
+    color: #704631;
+    padding: 70px 20px;
+}
+
+/* PRODUK */
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+/* BUTTON */
+.btn-danger {
+    background-color: #a65d46;
+    border-color: #a65d46;
+}
+
+.btn-danger:hover {
+    background-color: #804431;
+    border-color: #804431;
+}
+
+/* KONTAK */
+.contact-form {
+    max-width: 600px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .hero-section {
+        padding: 50px 15px;
+    }
+}
