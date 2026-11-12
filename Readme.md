@@ -122,11 +122,11 @@ Selain itu, penggunaan CSS eksternal membantu mengatur warna, ukuran gambar, efe
 
 ## Tampilan Desktop
 
-![Screenshot Website Bakery Desktop](IMAGES/Desktop.png)
+![Screenshot Website Bakery Desktop](/TUGAS%20PRAK/IMAGES/Desktop.png)
 
 ## Tampilan Mobile
 
-![Screenshot Website Bakery Mobile](IMAGES/Mobile.png)
+![Screenshot Website Bakery Mobile](/TUGAS%20PRAK/IMAGES/Mobile.png)
 
 # KESIMPULAN
 
