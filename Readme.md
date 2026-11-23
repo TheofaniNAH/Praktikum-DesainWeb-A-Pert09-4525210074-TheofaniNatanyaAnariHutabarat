@@ -5,14 +5,14 @@
 - **Nama:** Theofani Natanya Anari Hutabarat
 - **NPM:** 4525210074
 - **Mata Kuliah:** Praktikum Desain Web - A
-- **Materi:** Pertemuan 10
+- **Materi:** Pertemuan 9
 - **Dosen:** Ari Wibowo, S.Kom., M.Kom., C. Pro.
 
 ---
 
 # DESKRIPSI PROYEK
 
-Proyek Pertemuan 10 merupakan tugas individu pembuatan website Company Profile untuk UMKM menggunakan HTML, CSS, dan Bootstrap 5. Pada proyek ini, saya membuat website bakery dengan nama **COOOOOCIIIIEEESSSS**.
+Proyek Pertemuan 9 merupakan tugas individu pembuatan website Company Profile untuk UMKM menggunakan HTML, CSS, dan Bootstrap 5. Pada proyek ini, saya membuat website bakery dengan nama **COOOOOCIIIIEEESSSS**.
 
 Website ini dibuat untuk memperkenalkan usaha bakery serta menampilkan berbagai pilihan produk roti dan pastry kepada pengunjung. Tampilan website dibuat sederhana dengan perpaduan warna cream, cokelat, dan merah agar sesuai dengan konsep bakery.
 
@@ -110,7 +110,7 @@ Catatan: Form kontak pada proyek ini masih berupa tampilan frontend dan belum te
 
 # RINGKASAN PERUBAHAN, MASALAH, DAN SOLUSI
 
-Pada tugas individu Pertemuan 10 ini, saya membuat website Company Profile untuk UMKM bakery dengan nama COOOOOCIIIIEEESSSS. Website berisi informasi usaha, katalog produk, promo, dan kontak.
+Pada tugas individu Pertemuan 9 ini, saya membuat website Company Profile untuk UMKM bakery dengan nama COOOOOCIIIIEEESSSS. Website berisi informasi usaha, katalog produk, promo, dan kontak.
 
 Dalam proses pembuatannya, saya menggunakan HTML, CSS, dan Bootstrap 5. Beberapa komponen Bootstrap yang diterapkan yaitu navbar, grid system, card, alert, modal, form, dan button.
 
@@ -130,4 +130,4 @@ Selain itu, penggunaan CSS eksternal membantu mengatur warna, ukuran gambar, efe
 
 # KESIMPULAN
 
-Melalui tugas individu Pertemuan 10, saya mempelajari cara membuat website Company Profile untuk UMKM menggunakan HTML, CSS, dan Bootstrap 5. Saya juga memahami penggunaan berbagai komponen Bootstrap seperti navbar, grid system, card, alert, modal, dan form. Selain itu, saya mempelajari cara mengatur tampilan menggunakan CSS eksternal serta menerapkan responsive design agar website dapat dibuka melalui desktop maupun smartphone. Dengan tugas ini, pemahaman mengenai pembuatan website Company Profile, penggunaan Bootstrap 5, dan pengaturan tampilan website menjadi lebih baik.
+Melalui tugas individu Pertemuan 9, saya mempelajari cara membuat website Company Profile untuk UMKM menggunakan HTML, CSS, dan Bootstrap 5. Saya juga memahami penggunaan berbagai komponen Bootstrap seperti navbar, grid system, card, alert, modal, dan form. Selain itu, saya mempelajari cara mengatur tampilan menggunakan CSS eksternal serta menerapkan responsive design agar website dapat dibuka melalui desktop maupun smartphone. Dengan tugas ini, pemahaman mengenai pembuatan website Company Profile, penggunaan Bootstrap 5, dan pengaturan tampilan website menjadi lebih baik.
